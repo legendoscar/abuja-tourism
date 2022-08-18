@@ -583,7 +583,6 @@
                                 <div class="card-body">
                                     <div class="card-title">
                                         <h5><a href="single-listing.php">Grand Pela Hotel & Suites
-</a></h5>
                                         <p class="small"><i class="bx bx-map"></i>02 Plot 649, Cadastral Zone B Near American Int’l School, Abuja</p>
                                     </div>
                                     <div class="card-info pb-3 pt-2">

@@ -520,7 +520,7 @@
                                     <div class="card-img p-0 m-0 ">
                                         <div class="card-img-top" >
                                             <a href="single-listing.php">
-                                                <img src="assets/img/hotels/concorde.jpg" alt="" class="img-fluid w-100">
+                                                <img src="assets/img/hotels/abuja/Fraser-Suites-Abuja.jpg" alt="" class="img-fluid w-100">
                                             </a>
                                         </div>
                                     </div>
@@ -539,11 +539,11 @@
                                 <div class="fl-wrap position-relative pl-4">
                                     <div class="card-body m-0 px-3 py-3">
                                         <div class="card-title ">
-                                            <h5><a href="single-listing.php">Concorde Hotels</a></h5>
-                                            <p class="small"><i class="bx bx-map pr-1"></i>Concorde Boulevard Off Port Harcourt Road</p>
+                                            <h5><a href="single-listing.php">Fraser Suites Abuja</a></h5>
+                                            <p class="small"><i class="bx bx-map pr-1"></i>294, Leventis Close Central Business District, Abuja</p>
                                         </div>
                                         <div class="card-info pb-3 pt-2">
-                                            <span>3.5-star hotel in Owerri with casino and outdoor pools.</span>
+                                            <span>5-star hotel in FCT Abuja with casino and outdoor pools.</span>
                                         </div>
                                         <div class="ftring">
                                             <p>
@@ -560,7 +560,7 @@
                                     <div class="card-footer bg-white border-0 px-4 py-0 m-0">
                                         <div class="d-flex justify-content-between">
                                             <div class="pricing">
-                                                <p class="small">AVG/NIGHT <span class="pl-1">$50</span> </p>
+                                                <p class="small">AVG/NIGHT <span class="pl-1">$100</span> </p>
                                             </div>
                                             <div class="bking">
                                                 <a href="single-listing.php">Book Now</a>
@@ -576,7 +576,7 @@
                                     <div class="card-img p-0 m-0 ">
                                         <div class="card-img-top m-0 p-0">
                                             <a href="single-listing.php">
-                                                <img src="assets/img/hotels/fullmoon2.jpg" alt="" class="img-fluid w-100  ">
+                                                <img src="assets/img/hotels/abuja/grand-pela-abuja-hotel-exterior.jpg" alt="" class="img-fluid w-100  ">
                                             </a>
                                         </div>
                                     </div>
@@ -595,8 +595,8 @@
                                 <div class="fl-wrap position-relative pl-4">
                                     <div class="card-body m-0 px-3 py-3">
                                         <div class="card-title ">
-                                            <h5><a href="single-listing.php">Full Moon Hotel</a></h5>
-                                            <p class="small"><i class="bx bx-map pr-1"></i>1, Full Moon Avenue, Off Akanchawa Road By Nekede Junction, Housing Area C, New Owerri</p>
+                                            <h5><a href="single-listing.php">Grand Pela Hotel & Suites
+                                            <p class="small"><i class="bx bx-map"></i>02 Plot 649, Cadastral Zone B Near American Int’l School, Abuja</p>
                                         </div>
                                         <div class="card-info pb-3 pt-2">
                                             <span>With over 85 spacious rooms of various categories; exquisitely furnished with state of the art fittings.</span>
@@ -616,7 +616,7 @@
                                     <div class="card-footer bg-white border-0 px-4 py-0 m-0">
                                         <div class="d-flex justify-content-between">
                                             <div class="pricing">
-                                                <p class="small">AVG/NIGHT <span class="pl-1">$50</span> </p>
+                                                <p class="small">AVG/NIGHT <span class="pl-1">$90</span> </p>
                                             </div>
                                             <div class="bking">
                                                 <a href="single-listing.php">Book Now</a>
@@ -632,7 +632,7 @@
                                     <div class="card-img p-0 m-0 ">
                                         <div class="card-img-top m-0 p-0">
                                             <a href="single-listing.html">
-                                                <img src="assets/img/hotels/ibis-royale.jpg" alt="" class="img-fluid w-100 h-100 ">
+                                                <img src="assets/img/hotels/abuja/Nordic-hotel-abuja.jpg" alt="" class="img-fluid w-100 h-100 ">
                                             </a>
                                         </div>
                                     </div>
@@ -651,8 +651,8 @@
                                 <div class="fl-wrap position-relative pl-4">
                                     <div class="card-body m-0 px-3 py-3">
                                         <div class="card-title ">
-                                            <h5>Hotel Ibis Royale</h5>
-                                            <p class="small"><i class="bx bx-map pr-1"></i>Area A, World Bank, Dreamland Juction Off PH Road, New Owerri, Owerri</p>
+                                        <h5><a href="single-listing.php">Nordic Hotel Abuja</a></h5>
+                                        <p class="small"><i class="bx bx-map"></i>Blvd, Plot 1332 Shehu Yar'adua Way, Abuja </p>
                                         </div>
                                         <div class="card-info pb-3 pt-2">
                                             <span>3.5-star hotel with free breakfast and free valet parking.</span>
@@ -672,7 +672,7 @@
                                     <div class="card-footer bg-white border-0 px-4 py-0 m-0">
                                         <div class="d-flex justify-content-between">
                                             <div class="pricing">
-                                                <p class="small">AVG/NIGHT <span class="pl-1">$50</span> </p>
+                                                <p class="small">AVG/NIGHT <span class="pl-1">$70</span> </p>
                                             </div>
                                             <div class="bking">
                                                 <a href="single-listing.php">Book Now</a>
@@ -688,7 +688,7 @@
                                     <div class="card-img p-0 m-0 ">
                                         <div class="card-img-top m-0 p-0">
                                             <a href="single-listing.html">
-                                                <img src="assets/img/hotels/titanic-view.jpg" alt="" class="img-fluid w-100 ">
+                                                <img src="assets/img/hotels/abuja/transcorp-hilton-abuja-source-transcorp-hotels.jpg" alt="" class="img-fluid w-100 ">
                                             </a>
                                         </div>
                                     </div>
@@ -707,8 +707,8 @@
                                 <div class="fl-wrap position-relative pl-4">
                                     <div class="card-body m-0 px-3 py-3">
                                         <div class="card-title ">
-                                            <h5>Titanic View Hotel</h5>
-                                            <p class="small"><i class="bx bx-map pr-1"></i>Plot sch/1 old Area D along World Bank Road.</p>
+                                        <h5><a href="single-listing.php">Transcorp Hilton Abuja</a></h5>
+                                        <p class="small"><i class="bx bx-map"></i>1 Aguiyi Ironsi St. Maitama, Abuja</p>
                                         </div>
                                         <div class="card-info pb-3 pt-2">
                                             <span>Continental breakfast is served daily. Other meals are served in the restaurant, there is also an option of room service. The bar is well stocked with varieties of beverages.</span>
@@ -728,7 +728,7 @@
                                     <div class="card-footer bg-white border-0 px-4 py-0 m-0">
                                         <div class="d-flex justify-content-between">
                                             <div class="pricing">
-                                                <p class="small">AVG/NIGHT <span class="pl-1">$50</span> </p>
+                                                <p class="small">AVG/NIGHT <span class="pl-1">$150</span> </p>
                                             </div>
                                             <div class="bking">
                                                 <a href="single-listing.php">Book Now</a>
