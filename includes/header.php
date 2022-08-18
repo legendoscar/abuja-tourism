@@ -11,11 +11,11 @@
                     <ul class="navbar-nav d-flex flex-row align-items-center ">
                         <li class="nav-item ctact">
                             <img src="assets/img/info_2.png" alt="" class="img-fluid">
-                            <span class="pl-2">+234-808-342-8880</span>
+                            <span class="pl-2">+234-806-999-0253</span>
                         <li class="nav-item ctact">
                             <a href="">
                                 <img src="assets/img/info_3.png" alt="" class="img-fluid">
-                                <span class="pl-2">hello@losintech.com</span>
+                                <span class="pl-2">hello@abuja-tourism-app.com</span>
                             </a>
                         </li>
                         <li class="nav-item rd">
@@ -44,25 +44,17 @@
                                 <a href="index.php">Home</a>
                             </li>
                             <li class="drop-down">
-                                <a href="">About</a>
-                            <ul>
-                                <li class="">
-                                    <a href="https://losintech.com">About us</a>
-                                </li>
-                                <li class="drop-down">
-                                    <a href="imo-state.php">About Imo state</a>
-                                </li>
-                            </ul>
+                                <a href="imo-state.php">About FCT Abuja</a>
                             </li>
                             <li class="drop-down"><a href="#">Listings</a>
                                 <ul>
-                                    <li><a href="hotels-listings.php">Hotels</a></li>
+                                    <li><a href="hotels-listing.php">Hotels</a></li>
                                     <li><a href="#">Flight</a></li>
                                     <li><a href="#">Tourism sites</a></li>
                                 </ul>
                             </li>
                             <li class="">
-                                <a href="https://losintech.com">Contact us</a>
+                                <a href="#">Contact us</a>
                             </li>
                             <li class="d-inline-flex align-item-center implist">
                                 <div class="sslist">

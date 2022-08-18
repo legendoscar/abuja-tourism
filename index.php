@@ -22,8 +22,8 @@
                 <i class="bx bx-street-view lgt"></i>
                 <i class="bx bx-street-view"></i>
             </h3>
-            <h1>IMO TOURISM</h1>
-            <h2>Let's start exploring the world together with Imo tourism</h2>
+            <h1>FCT ABUJA TOURISM</h1>
+            <h2>Let's start exploring the world together with FCT ABUJA Tourism App</h2>
         </div>
     </section><!-- End Hero -->
 
@@ -36,8 +36,8 @@
                     <div class="fcts">
                         <div class="d-flex justify-content-center align-items-center">
                             <div class="nber text-center">
-                                <h5> <span data-toggle="counter-up">4.8</span>
-                                    <span class="small">million</span>
+                                <h5> <span data-toggle="counter-up">3</span>
+                                    <span class="small">million+</span>
                                 </h5>
                                 <p>Population</p>
                             </div>
@@ -49,7 +49,7 @@
                     <div class="fcts">
                         <div class="d-flex justify-content-center align-items-center">
                             <div class="nber text-center">
-                                <h5 data-toggle="counter-up">27</h5>
+                                <h5 data-toggle="counter-up">6</h5>
                                 <p>Local Governments</p>
                             </div>
                         </div>
@@ -61,8 +61,8 @@
                         <div class="d-flex justify-content-center align-items-center">
                             <div class="nber text-center">
                                 <h5>
-                                    <span data-toggle="counter-up">14,212</span>
-                                    <span class="small">USD</span>
+                                    <span data-toggle="counter-up">5.6</span>
+                                    <span class="small">USD Billion</span>
                                 </h5>
                                 <p>GDP</p>
                             </div>
@@ -74,8 +74,14 @@
                     <div class="fcts">
                         <div class="d-flex justify-content-center align-items-center">
                             <div class="nber text-center">
-                                <h5 data-toggle="counter-up">22</h5>
-                                <p>Upcoming events</p>
+                                <h5>
+                                    <span data-toggle="counter-up">1991</span>
+                                    <span class="small">Year</span>
+                                </h5>
+                                <p>Became Capital</p>
+                                <!-- <h5 data-toggle="counter-up">250</h5>
+                                <span class="small">+</span>
+                                <p>Upcoming events</p> -->
                             </div>
                         </div>
                     </div>
@@ -262,13 +268,13 @@
                         <div class="card border-0 p-0 m-0">
                             <div class="card-img p-0 m-0">
                                 <a href="hotels-listings.php">
-                                    <img src="assets/img/hotels/beland.jpg" alt="" class="img-fluid">
+                                    <img src="assets/img/hotels/abuja/transcorp-hilton-abuja-source-transcorp-hotels.jpg" alt="" class="img-fluid">
                                 </a>
                             </div>
                             <div class="card-img-overlay">
                                 <div class="pabs">
                                     <div class="dgts">
-                                        <a href="hotels-listing.php"> 655 hotels</a>
+                                        <a href="hotels-listing.php"> 5000+ hotels</a>
                                     </div>
                                     <div class="ltn">
                                         <h6><a href="#">See Listing <i class="bx bx-check-double"></i></a></h6>
@@ -286,13 +292,13 @@
                         <div class="card border-0 p-0 m-0">
                             <div class="card-img p-0 m-0">
                                 <a href="hotels-listings.php">
-                                    <img src="assets/img/tour/smbakwe.jpg" alt="" class="img-fluid">
+                                    <img src="assets/img/airports/nigeria-airways.avif" alt="" class="img-fluid">
                                 </a>
                             </div>
                             <div class="card-img-overlay">
                                 <div class="pabs">
                                     <div class="dgts">
-                                        <a href="hotels-listings.php"> 15 Flights</a>
+                                        <a href="hotels-listings.php"> 25 Airpots</a>
                                     </div>
                                     <div class="ltn">
                                         <h6><a href="#">See Listing <i class="bx bx-check-double"></i></a></h6>
@@ -310,13 +316,13 @@
                         <div class="card border-0 p-0 m-0">
                             <div class="card-img p-0 m-0">
                                 <a href="hotels-listings.php">
-                                    <img src="assets/img/tour/oguta.jpeg" alt="" class="img-fluid">
+                                    <img src="assets/img/tour/abuja/abuja-nat-mosque.jpg" alt="" class="img-fluid">
                                 </a>
                             </div>
                             <div class="card-img-overlay">
                                 <div class="pabs">
                                     <div class="dgts">
-                                        <a href="hotels.php"> 10 Tourism sites</a>
+                                        <a href="hotels.php"> 15 Hot Tourist sites</a>
                                     </div>
                                     <div class="ltn">
                                         <h6><a href="#">See Listing <i class="bx bx-check-double"></i></a></h6>
@@ -359,7 +365,7 @@
                                 <div class="card-img p-0 m-0">
                                     <div class="card-img-top">
                                         <a href="single-listing.php">
-                                            <img src="assets/img/hotels/ibis-royale.jpg" alt="" class="img-fluid">
+                                            <img src="assets/img/hotels/abuja/transcorp-hilton-abuja-source-transcorp-hotels.jpg" alt="" class="img-fluid">
                                         </a>
                                     </div>
                                 </div>
@@ -376,11 +382,11 @@
                                 <!-- Card body -->
                                 <div class="card-body">
                                     <div class="card-title">
-                                        <h5><a href="single-listing.php">Hotel Ibis Royale</a></h5>
-                                        <p class="small"><i class="bx bx-map"></i>Area A, World Bank, Dreamland Juction</p>
+                                        <h5><a href="single-listing.php">Transcorp Hilton Abuja</a></h5>
+                                        <p class="small"><i class="bx bx-map"></i>1 Aguiyi Ironsi St. Maitama, Abuja</p>
                                     </div>
                                     <div class="card-info pb-3 pt-2">
-                                        <span>3.5-star hotel with free breakfast and free valet parking.</span>
+                                        <span>5 star hotel with free breakfast and free valet parking.</span>
                                     </div>
                                     <div class="ftring">
                                         <p>
@@ -395,7 +401,7 @@
                                 <div class="card-footer border-0">
                                     <div class="d-flex justify-content-between">
                                         <div class="pricing">
-                                            <p class="small">Avg/Night <span class="small">&#8358;53,500</span> </p>
+                                            <p class="small">Avg/Night <span class="small">&#8358;94,500</span> </p>
                                         </div>
                                         <div class="bking">
                                             <a href="single-listing.php">Book</a>
@@ -409,7 +415,7 @@
                                 <div class="card-img p-0 m-0">
                                     <div class="card-img-top fullimg">
                                         <a href="single-listing.php">
-                                            <img src="assets/img/hotels/fullmoon2.jpg" alt="" class="img-fluid">
+                                            <img src="assets/img/hotels/abuja/the-hallmark-hub-apartment-&-suites.jpg" alt="" class="img-fluid">
                                         </a>
                                     </div>
                                 </div>
@@ -426,8 +432,8 @@
                                 <!-- Card body -->
                                 <div class="card-body ">
                                     <div class="card-title">
-                                        <h5><a href="single-listing.php">Full Moon Hotels</a></h5>
-                                        <p class="small"><i class="bx bx-map"></i>1, Full Moon Avenue, Off Akanchawa Road</p>
+                                        <h5><a href="single-listing.php">The Hallmark Hub Apartment & Suites</a></h5>
+                                        <p class="small"><i class="bx bx-map"></i>Plot 283, Adamu Ciroma Crescent Jabi, Abuja </p>
                                     </div>
                                     <div class="card-info pb-3 pt-2">
                                         <span>With over 85 spacious rooms of various categories; exquisitely furnished.</span>
@@ -459,7 +465,7 @@
                                 <div class="card-img p-0 m-0">
                                     <div class="card-img-top">
                                         <a href="single-listing.php">
-                                            <img src="assets/img/hotels/concorde.jpg" alt="" class="img-fluid">
+                                            <img src="assets/img/hotels/abuja/Nordic-hotel-abuja.jpg" alt="" class="img-fluid">
                                         </a>
                                     </div>
                                 </div>
@@ -476,11 +482,11 @@
                                 <!-- Card body -->
                                 <div class="card-body">
                                     <div class="card-title">
-                                        <h5><a href="single-listing.php">Concorde Hotels</a></h5>
-                                        <p class="small"><i class="bx bx-map"></i>Concorde Boulevard Off Port Harcourt Road</p>
+                                        <h5><a href="single-listing.php">Nordic Hotel Abuja</a></h5>
+                                        <p class="small"><i class="bx bx-map"></i>Blvd, Plot 1332 Shehu Yar'adua Way, Abuja </p>
                                     </div>
                                     <div class="card-info pb-3 pt-2">
-                                        <span>3.5-star hotel in Owerri with casino and outdoor pools.</span>
+                                        <span>5-star hotel in FCT Abuja with casino and outdoor pools.</span>
                                     </div>
                                     <div class="ftring">
                                         <p>
@@ -495,7 +501,7 @@
                                 <div class="card-footer border-0">
                                     <div class="d-flex justify-content-between">
                                         <div class="pricing">
-                                            <p>Avg/Night <span class="small">$50</span> </p>
+                                            <p>Avg/Night <span class="small">$65</span> </p>
                                         </div>
                                         <div class="bking">
                                             <a href="single-listing.php">Book</a>
@@ -509,7 +515,7 @@
                                 <div class="card-img p-0 m-0">
                                     <div class="card-img-top">
                                         <a href="single-listing.php">
-                                            <img src="assets/img/hotels/titanic-view.jpg" alt="" class="img-fluid">
+                                            <img src="assets/img/hotels/abuja/Fraser-Suites-Abuja.jpg" alt="" class="img-fluid">
                                         </a>
                                     </div>
                                 </div>
@@ -526,8 +532,8 @@
                                 <!-- Card body -->
                                 <div class="card-body">
                                     <div class="card-title">
-                                        <h5><a href="single-listing.php">Titanic View Hotel</a></h5>
-                                        <p class="small"><i class="bx bx-map"></i>Plot sch/1 old Area D along World Bank Road</p>
+                                        <h5><a href="single-listing.php">Fraser Suites Abuja</a></h5>
+                                        <p class="small"><i class="bx bx-map"></i>294, Leventis Close Central Business District, Abuja</p>
                                     </div>
                                     <div class="card-info pb-3 pt-2">
                                         <span>Continental breakfast is served daily. The bar is well stocked with varieties of beverages.</span>
@@ -559,7 +565,7 @@
                                 <div class="card-img p-0 m-0">
                                     <div class="card-img-top">
                                         <a href="single-listing.php">
-                                            <img src="assets/img/hotels/executive-garden.jpg" alt="" class="img-fluid">
+                                            <img src="assets/img/hotels/abuja/grand-pela-abuja-hotel-exterior.jpg" alt="" class="img-fluid">
                                         </a>
                                     </div>
                                 </div>
@@ -576,8 +582,9 @@
                                 <!-- Card body -->
                                 <div class="card-body">
                                     <div class="card-title">
-                                        <h5><a href="single-listing.php">Executive Garden Hotels</a></h5>
-                                        <p class="small"><i class="bx bx-map"></i>Okigwe Road</p>
+                                        <h5><a href="single-listing.php">Grand Pela Hotel & Suites
+</a></h5>
+                                        <p class="small"><i class="bx bx-map"></i>02 Plot 649, Cadastral Zone B Near American Int’l School, Abuja</p>
                                     </div>
                                     <div class="card-info pb-3 pt-2">
                                         <span>Offers the best blend of relaxation, entertainment and ...</span>
@@ -595,7 +602,7 @@
                                 <div class="card-footer border-0">
                                     <div class="d-flex justify-content-between">
                                         <div class="pricing">
-                                            <p>Avg/Night <span class="small">$50</span> </p>
+                                            <p>Avg/Night <span class="small">$111</span> </p>
                                         </div>
                                         <div class="bking">
                                             <a href="single-listing.php">Book</a>
@@ -610,7 +617,7 @@
 
             <div class="stndecor">
                 <div class="seeMore text-center">
-                    <a href="hotels-listings.php">Explore all Hotels</a>
+                    <a href="hotels-listing.php">Explore all Hotels</a>
                 </div>
             </div>
         </div>
@@ -629,7 +636,7 @@
                             <i class="bx bx-street-view"></i>
                         </h3>
                         <h2>Most Popular Tourism sites</h2>
-                        <p class="pb-3">The state is relatively peaceful and a tropical paradise that guarantees a swashbuckling stay for tourists and visitors.
+                        <p class="pb-3">The City is relatively peaceful and a tropical paradise that guarantees a swashbuckling stay for tourists, investments and visitors.
 </p>
                     </div>
                     <div class="vall">
@@ -642,7 +649,7 @@
                         <div class="imgx-item">
                             <div class="card border-0 p-0 m-0">
                                 <div class="card-img">
-                                    <img src="assets/img/tour/Oguta-Lake-Imo.jpg" alt="" class="img-fluid">
+                                    <img src="assets/img/tour/abuja/millennium tower abuja.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="card-img-overlay position-">
                                     <div class="position-absolute dtils">
@@ -653,11 +660,11 @@
                                             <i class="bx bx-street-view"></i>
                                             <i class="bx bx-street-view"></i>
                                         </p>
-                                        <h6>Oguta Lake</h6>
-                                        <p class="small"><i class="bx bx-map pr-1"></i> Oguta L.G.A</p>
+                                        <h6>Millennium Tower</h6>
+                                        <p class="small"><i class="bx bx-map pr-1"></i> Abuja</p>
                                     </div>
                                     <div class="position-absolute vdtils">
-                                        <a href="tour-details.php"> Details</a>
+                                        <a href="#"> Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -666,7 +673,7 @@
                         <div class="imgx-item">
                             <div class="card border-0 p-0 m-0">
                                 <div class="card-img">
-                                    <img src="assets/img/tour/spring-water.jpeg" alt="" class="img-fluid">
+                                    <img src="assets/img/tour/abuja/national-church-abuja.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="card-img-overlay ">
                                     <div class="position-absolute dtils">
@@ -677,11 +684,11 @@
                                             <i class="bx bx-street-view"></i>
                                             <i class="bx bx-street-view"></i>
                                         </p>
-                                        <h6>Ngwu Natural Spring spring-water</h6>
-                                        <p class="small"><i class="bx bx-map pr-1"></i> Ngwu, Nkwere L.G.A</p>
+                                        <h6>National Church</h6>
+                                        <p class="small"><i class="bx bx-map pr-1"></i> Abuja</p>
                                     </div>
                                     <div class="position-absolute vdtils">
-                                        <a href="tour-details.php"> Details</a>
+                                        <a href="#"> Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -690,7 +697,7 @@
                         <div class="imgx-item">
                             <div class="card border-0 p-0 m-0">
                                 <div class="card-img">
-                                    <img src="assets/img/tour/casino.jpg" alt="" class="img-fluid">
+                                    <img src="assets/img/tour/abuja/abuja-nat-mosque.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="card-img-overlay ">
                                     <div class="position-absolute dtils">
@@ -701,11 +708,11 @@
                                             <i class="bx bx-street-view"></i>
                                             <i class="bx bx-street-view"></i>
                                         </p>
-                                        <h6>Jacaranda Casino</h6>
-                                        <p class="small"><i class="bx bx-map pr-1"></i> Owerri</p>
+                                        <h6>National Mosque</h6>
+                                        <p class="small"><i class="bx bx-map pr-1"></i> FCT Abuja</p>
                                     </div>
                                     <div class="position-absolute vdtils">
-                                        <a href="tour-details.php"> Details</a>
+                                        <a href="#"> Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -714,7 +721,7 @@
                         <div class="imgx-item">
                             <div class="card border-0 p-0 m-0">
                                 <div class="card-img">
-                                    <img src="assets/img/tour/ada-palms.jpeg" alt="" class="img-fluid">
+                                    <img src="assets/img/tour/abuja/Millennium-Park-Abuja.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="card-img-overlay ">
                                     <div class="position-absolute dtils">
@@ -725,11 +732,11 @@
                                             <i class="bx bx-street-view"></i>
                                             <i class="bx bx-street-view"></i>
                                         </p>
-                                        <h6>Imo Palm Plantation</h6>
+                                        <h6>Millennium Park Abuja</h6>
                                         <p class="small"><i class="bx bx-map pr-1"></i> Amaofor PH expressway, Owerri</p>
                                     </div>
                                     <div class="position-absolute vdtils">
-                                        <a href="tour-details.php"> Details</a>
+                                        <a href="#"> Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -738,7 +745,7 @@
                         <div class="imgx-item">
                             <div class="card border-0 p-0 m-0">
                                 <div class="card-img">
-                                    <img src="assets/img/tour//mbari.jpeg" alt="" class="img-fluid">
+                                    <img src="assets/img/tour/abuja/NAtional-Assembly.jpg" alt="" class="img-fluid">
                                 </div>
                                 <div class="card-img-overlay ">
                                     <div class="position-absolute dtils">
@@ -749,11 +756,11 @@
                                             <i class="bx bx-street-view"></i>
                                             <i class="bx bx-street-view"></i>
                                         </p>
-                                        <h6>Mbari Cultural and Arts Center</h6>
-                                        <p class="small"><i class="bx bx-map pr-1"></i> Ikenegbu, Owerri</p>
+                                        <h6>National Assembly</h6>
+                                        <p class="small"><i class="bx bx-map pr-1"></i> Abuja</p>
                                     </div>
                                     <div class="position-absolute vdtils">
-                                        <a href="tour-details.php"> Details</a>
+                                        <a href="#"> Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -775,7 +782,7 @@
                             <img src="assets/img/banner/api.png" alt="" class="img-fluid">
                         </div>
                         <div class="position-absolute psta">
-                            <a href="#" class="text-uppercase">Imo Tourism</a>
+                            <a href="#" class="text-uppercase">FCT Abuja Tourism</a>
                         </div>
                     </div>
                 </div>
@@ -787,7 +794,7 @@
                                 <i class="bx bx-street-view lgt"></i>
                                 <i class="bx bx-street-view"></i>
                             </h3>
-                            <h2>Access Exclusive Features On The Imo Tourism App. Download Today!</h2>
+                            <h2>Access Exclusive Features On The FCT Abuja Tourism App. Download Today!</h2>
                         </div>
                         <div class="dwnft pb-5">
                             <p>

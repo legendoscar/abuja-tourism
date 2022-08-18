@@ -8,28 +8,31 @@
                             <h6>ABOUT US</h6>
                         </div>
                         <div class="abtt">
-                            <p>At LOSINTECH, we build products that empower businesses and connect individuals with solutions that enable growth & productivity.</p>
+                            <p>
+                            Abuja is the capital city of Nigeria, in the middle of the country. 
+                            The skyline of the city, which was built largely in the 1980s, is dominated by Aso Rock, an enormous monolith. 
+                            </p>
                         </div>
                         <div class="fterinks abttn">
                             <ul class="list-unstyled d-flex flex-column small">
                                 <li>
                                     <a href="#">
-                                        <i class="bx bx-envelope pr-3"></i>hello@Losintech.com
+                                        <i class="bx bx-envelope pr-3"></i>hello@abuja-tourism-app.com
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="default">
                                         <i class="bx bx-map pr-3"></i>
-                                        Akwakuma Owerri, Imo state.
+                                        FCT Abuja
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="default">
-                                        <i class="bx bx-phone pr-3"></i>+234-808-342-8880
+                                        <i class="bx bx-phone pr-3"></i>+234-806-999-0253
                                     </a>
                                 </li>
                                 <li class="gint mt-4">
-                                    <a href="https://losintech.com">Get In Touch <i class="bx bx-envelope"></i></a>
+                                    <a href="#">Get In Touch <i class="bx bx-envelope"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -45,13 +48,13 @@
                         <div class="fterinks">
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="https://losintech.com">About us</a>
+                                    <a href="#">About us</a>
                                 </li>
                                 <li>
                                     <a href="blog.php">Blog</a>
                                 </li>
                                 <li>
-                                    <a href="https://losintech.com">Contact us</a>
+                                    <a href="#">Contact us</a>
                                 </li>
                                 <li>
                                     <a href="privacy.php">Privacy policy</a>
@@ -79,16 +82,16 @@
                                     <a href="#">App (Android)</a>
                                 </li>
                                 <li>
-                                    <a href="imo-state.php">Imo History</a>
+                                    <a href="fct-abuja.php">FCT Abuja History</a>
                                 </li>
                                 <li>
-                                    <a href="imo-state.php#people">People / Culture</a>
+                                    <a href="fct-abuja.php#people">People / Culture</a>
                                 </li>
                                 <li>
-                                    <a href="imo-state.php#food">Food / Marriage</a>
+                                    <a href="fct-abuja.php#food">Food / Marriage</a>
                                 </li>
                                 <li>
-                                    <a href="imo-state.php#market">Market</a>
+                                    <a href="fct-abuja.php#market">Market</a>
                                 </li>
                             </ul>
                         </div>
@@ -104,7 +107,7 @@
                         <div class="fterinks">
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="hotels-listings.php">Hotels</a>
+                                    <a href="hotels-listing.php">Hotels</a>
                                 </li>
                                 <li>
                                     <a href="#">Flights</a>

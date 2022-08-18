@@ -20,7 +20,7 @@
                                 <div class="dropdown-menu" aria-labelledby="navDropdown">
                                     <a href="https://losintech.com" class="dropdown-item" >About us
                                     </a>
-                                    <a href="imo-state.php" class="dropdown-item">About Imo State
+                                    <a href="imo-state.php" class="dropdown-item">About FCT Abuja
                                     </a>
                                 </div>
                             </li>
