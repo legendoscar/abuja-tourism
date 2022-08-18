@@ -5,7 +5,7 @@ if (isset($_POST['email']) and isset($_POST['password'])) {
 }
 ?>
 <!-- Doctype/Css-links -->
-<?php require_once 'includes/css-links'; ?>
+<?php require_once 'includes/css-links.php'; ?>
 
   <body>
     <main class="main_content">

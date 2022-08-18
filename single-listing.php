@@ -33,20 +33,20 @@
                                         <i class="bx bxs-star"></i>
                                     </div>
                                     <div class="title-wrapp text-white">
-                                        <h1 class="text-capitalize">Hotel Ibis Royale</h1>
+                                        <h1 class="text-capitalize">Transcorp Hilton Hotel Abuja</h1>
                                     </div>
                                 </div>
 
                                 <div class="pline">
                                     <ul class="list-unstyled list-inline text-white">
                                         <li class="list-inline-item">
-                                            <span><i class="bx bx-phone pr-2"></i> +234093-234-2343</span>
+                                            <span><i class="bx bx-phone pr-2"></i> +234-803-901-3000</span>
                                         </li>
                                         <li class="list-inline-item">
-                                            <span><i class="bx bx-current-location pr-2"></i> Area A, World Bank, Dreamland Juction Off PH Road, New Owerri, Owerri</span>
+                                            <span><i class="bx bx-current-location pr-2"></i> 1 Aguiyi Ironsi St, Maitama 900001, Abuja</span>
                                         </li>
                                         <li class="list-inline-item">
-                                            <span><i class="bx bx-envelope pr-2"></i> hotelibisroyale@domain.com</span>
+                                            <span><i class="bx bx-envelope pr-2"></i> hilton.abuja@hilton.com</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -77,12 +77,12 @@
                                         </a>
                                     </li>
                                     <li class="list-inline-item">
-                                        <a href="hotels-listings.php">Listings
+                                        <a href="hotels-listing.php">Listings
                                             <i class="icon-angle-double-right pl-4"></i>
                                         </a>
                                     </li>
                                     <li class="list-inline-item">
-                                        <a href="single-listing.php" class="hname">Hotel Ibis Royale</a>
+                                        <a href="single-listing.php" class="hname">Transcorp Hilton Hotel Abuja</a>
                                     </li>
                                 </ul>
                                 <div class="price">
@@ -187,9 +187,12 @@
                                     <h5 class="text-uppercase">About Hotel</h5>
                                 </div>
                                 <div class="abt-body">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium in est quos odit veritatis optio at doloremque architecto ut? Nam incidunt cum blanditiis vel deleniti error numquam, eveniet laudantium corporis.
+                                    <p>
+                                    Set on picturesque landscaped gardens, our hotel sits at the heart of Nigeria's Federal Capital Territory and Abuja's commercial district. We're less than three kilometers from Abuja National Mosque and Millennium Park, within 20 minutes of the city center. Enjoy our on-site casino, handicraft market, airline kiosks, 24-hour fitness center, and outdoor pool.
                                     </p>
-                                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, quia? Porro praesentium dolore molestias, velit ducimus corrupti quod ipsa aperiam deleniti veniam distinctio doloribus similique obcaecati voluptatem quidem vel quis, amet error voluptas.</p>
+                                    <p>
+                                        Explore our restaurants for traditional Nigerian, oriental, Mongolian, and Mediterranean cuisines. Fulani Pool Bar offers barbecue, our piano lounge serves light snacks, and the Pastry Shop stocks fresh baking.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -527,7 +530,7 @@
                             </div>
                             <div class="work_ pt-4">
                                 <p class="float-right">
-                                    Work here?
+                                    Want to work here?
                                     <a href="#" class="pl-2">Apply Now!</a>
                                 </p>
                             </div>
@@ -546,15 +549,15 @@
                                 <div class="d-grid r-wrap">
                                     <div class="img-box">
                                         <a href="#">
-                                            <img src="/assets/img/banner/b1.jpg" alt="" class="img-fluid w-100">
+                                            <img src="assets/img/hotels/abuja/Fraser-Suites-Abuja.jpg" alt="" class="img-fluid w-100">
                                         </a>
                                     </div>
                                     <div class="r_details ml-3">
                                         <div class="d-flex justify-content-between flex-wrap ">
                                             <h6 class="p-0 m-0">
-                                                <a href="#">Rockview Hotel</a>
+                                                <a href="#">Fraser Suites Abuja</a>
                                             </h6>
-                                            <label>25k <span class="small"> / night</span></label>
+                                            <label>95k <span class="small"> / night</span></label>
                                         </div>
                                         <div class="star-rate">
                                             <i class="bx bxs-star"></i>
@@ -566,7 +569,7 @@
                                         <div class="r_addres pt-1">
                                             <p class="small">
                                                 <i class="bx bxs-map pr-2"></i>
-                                                Plot CP/2-C5, Government Station Layout
+                                                294, Leventis Close Central Business District, Abuja
                                             </p>
                                         </div>
                                     </div>
@@ -576,13 +579,13 @@
                                 <div class="d-grid r-wrap">
                                     <div class="img-box">
                                         <a href="#">
-                                            <img src="/assets/img/banner/b4.jpg" alt="" class="img-fluid w-100">
+                                            <img src="assets/img/hotels/abuja/grand-pela-abuja-hotel-exterior.jpg" alt="" class="img-fluid w-100">
                                         </a>
                                     </div>
                                     <div class="r_details ml-3">
                                         <div class="d-flex justify-content-between flex-wrap ">
                                             <h6 class="p-0 m-0">
-                                                <a href="#">Bestway Hotel</a>
+                                                <a href="#">Grand Pela Hotel & Suites</a>
                                             </h6>
                                             <label>18k <span class="small"> / night</span></label>
                                         </div>
@@ -595,7 +598,7 @@
                                         <div class="r_addres pt-1">
                                             <p class="small">
                                                 <i class="bx bxs-map pr-2"></i>
-                                                55 Owerri/Orlu Road, Amakohia
+                                                02 Plot 649, Cadastral Zone B Near American Int’l School, Abuja
                                             </p>
                                         </div>
                                     </div>
@@ -605,13 +608,13 @@
                                 <div class="d-grid r-wrap">
                                     <div class="img-box">
                                         <a href="#">
-                                            <img src="/assets/img/banner/g2.jpg" alt="" class="img-fluid w-100">
+                                            <img src="assets/img/hotels/abuja/Nordic-hotel-abuja.jpg" alt="" class="img-fluid w-100">
                                         </a>
                                     </div>
                                     <div class="r_details ml-3">
                                         <div class="d-flex justify-content-between flex-wrap ">
                                             <h6 class="p-0 m-0">
-                                                <a href="#">Benchmarks</a>
+                                                <a href="#">Nordic Hotel Abuja</a>
                                             </h6>
                                             <label>28k <span class="small"> / night</span></label>
                                         </div>
@@ -623,7 +626,7 @@
                                         <div class="r_addres pt-1">
                                             <p class="small">
                                                 <i class="bx bxs-map pr-2"></i>
-                                                Off Uwazurike Street, Area H, New Owerri
+                                                Blvd, Plot 1332 Shehu Yar'adua Way, Abuja
                                             </p>
                                         </div>
                                     </div>
@@ -631,7 +634,7 @@
 
                                 <!-- See all -->
                                 <div class="see-all pt-4 pb-2">
-                                    <a href="hotels-listings.php" class="float-right">See All Listing  <i class="icon-long-arrow-right pl-1"></i></a>
+                                    <a href="hotels-listing.php" class="float-right">See All Listing  <i class="icon-long-arrow-right pl-1"></i></a>
                                 </div>
                             </div>
                         </div>
