@@ -19,12 +19,12 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="imo_brief  text-center postion-relative pb-4 mb-2 ">
-                        <h1 class="text-uppercase ">imo state</h1>
+                        <h1 class="text-uppercase ">FCT Abuja</h1>
                     </div>
                 </div>
                 <div class="col-lg-6 m-auto">
                     <div class="imo_img">
-                        <img src="assets/img/about/imo-center.jpg" alt="" class="img-fluid w-100 ">
+                        <img src="assets/img/tour/abuja/ABUJA-CITY.jpg" alt="" class="img-fluid w-100 ">
                     </div>
                 </div>
                 <!-- About Imo state -->
@@ -32,44 +32,51 @@
                     <div class="imo_wrap">
                         <div class="imo_h position-relative">
                             <p>
-                                Imo is one of the 36 States of <img src="assets/img/about/23px-Flag_of_Nigeria.svg.png" alt="flag" class="img-fluid px-1"> Nigeria and is in the south east region of Nigeria. Owerri is its capital and among the largest towns in the state. Its other notable towns are Orlu, Obowo Obudi, Oguta, Mbaise and Okigwe. Located in the south-eastern region of Nigeria, it occupies the area between the lower River Niger and the upper and middle Imo River.
+                                Abuja is the capital city of Nigeria <img src="assets/img/about/23px-Flag_of_Nigeria.svg.png" alt="flag" class="img-fluid px-1">, in the middle of the country. The skyline of the city, which was built largely in the 1980s, is dominated by Aso Rock, an enormous monolith. It rises up behind the Presidential Complex, which houses the residence and offices of the Nigerian president in the Three Arms Zone on the eastern edge of the city. Nearby are the National Assembly and the Supreme Court of Nigeria.
                             </p>
                         </div>
                         <div class="ltn">
-                            <strong>Location:</strong>  <span>Imo State is bordered by Abia State on the East, River Niger and Delta State to the West, Anambra State on the North and Rivers State to the South.[5] The state lies within latitudes 4°45'N and 7°15'N, and longitude 6°50'E and 7°25'E with an area of around 5,100 sq km</span>
+                            <strong>Location:</strong>  <span>FCT Abuja is bordered by Niger State to the west, Kaduna State to the north, Nasarawa State to the east and Kogi State to the south.
+                            The city lies within latitudes 4°45'N and 7°15'N, and longitude 6°50'E and 7°25'E with an area of around 5,100 sq km</span>
                         </div>
                         <div class="ltn pt-3">
-                            <strong>Demographics: </strong>
-                            <span>The state has over 4.8 million people and the population density varies from 230 to 1,400 people per square kilometre. Christianity is the predominant religion.
-
-                            Imo state is a predominantly <b>Igbo speaking state</b> , with Igbo people constituting a majority of 98%.</span>
+                            <strong>Influence: </strong>
+                            <span>
+                            Abuja is Nigeria's administrative and political capital. It is also a key capital on the African continent due to Nigeria's geo-political influence in regional affairs. 
+                            Abuja is also a conference centre and hosts various meetings annually, such as the 2003 Commonwealth Heads of Government meeting and the 2014 World Economic Forum (Africa) meetings. Abuja joined the UNESCO Global Network of Learning Cities in 2016.</span>
                         </div>
                     </div>
                 </div>
 
                 <!-- History -->
-                <div class="col-lg-12">
+                <div class="col-lg-12" id="history">
                     <div class="imo_history mt-4 mb-5 pb-4 border-bottom border-top pt-5">
                         <div class="title ">
                             <h3 class="text-uppercase">history</h3>
                         </div>
                         <div class="imo_h_details text-justify">
                             <p>
-                                Imo State came into existence in 1976 along with other new states created under the leadership of the late military ruler of Nigeria, Murtala Muhammad, having been previously part of East-Central State. The state is named after the Imo River which bears the name of a prominent Nigerian family with that family name, who were the chiefs of Imo State before the ratification of a more formal government.[17] Part of it was split off in 1991 as Abia State, and another part became Ebonyi State.
+                                "Abuja" was in the earlier 20th century the name of the nearby town now called Suleja. 
+                                The indigenous inhabitants of Abuja are the Gbagyi (Gwari), with the Gbagyi language formerly being the major language of the region. Other groups in the area include the Bassa, Gwandara, Gade, Dibo, Nupe and Koro. In light of the ethnic and religious divisions of Nigeria, plans had been devised since Nigeria's independence to have its capital in a place deemed neutral to all major ethnic parties, and also in close proximity to all the regions of Nigeria. The location was eventually designated in the centre of the country in the early 1970s as it signified neutrality and national unity. Another impetus for Abuja came because of Lagos' population boom that made that city overcrowded and conditions squalid. As Lagos was already undergoing rapid economic development, the Nigerian regime felt the need to expand the economy towards the inner part of the country, and hence decided to move its capital to Abuja. The logic used was similar to the way Brazil planned its capital, Brasília.
                             </p>
                             <p>
-                                Imo state was created at Ngwoma and the meetings for the state creation which began after the Nigerian Civil War ended in 1970 were chaired by Eze S. E. Onukogu.
+                            The Federal Military Government of Nigeria, promulgated decree No. 6 on the 4th of February, 1976, which initiated the removal of the Federal Capital from Lagos to Abuja. The initial work for Abuja's planning and implementation were carried out by the Military Government of General's Murtala Mohammed and Olusegun Obasanjo and carried over into the Administration of Shehu Shagari. Construction started in the late 1970s but, due to economic and political instability, the initial stages of the city were not complete until the late 1980s.
+                            </p>
+                            <p>
+                            The move of Nigeria's Capital to Abuja was controversial, and the biggest opposition to it was led by Obafemi Awolowo. Awolowo, as a politician and a representative of the Yoruba people, defended their claims against the move of the Capital from Lagos. During the hotly-contested campaign for the presidency, he vowed to hire the American Walt Disney Corporation to convert the new site (Abuja) into an amusement park if he was elected. However, after his election as president, Alhaji Shehu Shagari laid the first foundation for Abuja's infrastructure and pushed for its early completion. His first journey outside of Lagos after his election was to Abuja, where he visited contractors and workers on site to urge a speedy completion of the project. On his return, he confided in Alhaji Abubakar Koko his disappointment with the slow progress of work. Shehu Shagari rescheduled the planned relocation to Abuja from 1986 to 1982 which later proved difficult.
                             </p>
                         </div>
-                        <div class="economy">
+                        <div class="economy" id="economy">
                             <strong>Economy: </strong>
-                            <span>The economy of the state depends primarily on <b>agriculture</b> and <b>commerce</b> . One of the primary agricultural production is the production of <b>palm oil</b> .</span>
+                            <span>
+                            Real estate is a major driver of the Abuja economy. This correlates with the considerable growth and investment the city has seen as it has developed. The sources of this investment have been both foreign and local. The real estate sector continues to have a positive impact on the city, as it is a major avenue for employment.
+                            </span>
                         </div>
                         <div class="ltn mt-3">
                             <strong>Climate: </strong>
-                            <span>The rainy season begins in April and lasts until October, with annual rainfall varying from 1,500mm to 2,200mm (60 to 80 inches).
-
-                            An average annual temperature above 20 °C (68.0 °F) creates an annual relative humidity of 75%. With humidity reaching 90% in the rainy season. The dry season experiences two months of Harmattan from late December to late February. The hottest months are between January and March.</span>
+                            <span>
+                            Abuja under Köppen climate classification features a tropical wet and dry climate (Köppen: Aw). The FCT experiences three weather conditions annually. This includes a warm, humid rainy season and a blistering dry season. In between the two, there is a brief interlude of harmattan occasioned by the northeast trade wind, with the main feature of dust haze and dryness
+                        </span>
                         </div>
                         <div class="row mt-3">
                             <div class="col-lg-3">
@@ -84,43 +91,33 @@
                                         <thead>
                                             <tr>
                                                 <th>
+                                                    <span>Name</span> &mdash; FCT Abuja
+                                                </th>
+                                                <th>
                                                     <span>Country</span> &mdash; <img src="assets/img/about/23px-Flag_of_Nigeria.svg.png" alt="" class="img-fluid px-2"> Nigeria
                                                 </th>
                                                 <th>
-                                                    <span>Created</span> &mdash; 3 February 1976
-                                                </th>
-                                                <th>
-                                                    <span>Capital</span> &mdash; Owerri
-                                                </th>
-                                                <th>
-                                                    <span>Demonym(s)</span>
-                                                    &mdash; Imolite
+                                                    <span>Capital from</span> &mdash; 12 December 1991
                                                 </th>
                                             </tr>
                                             <tr>
                                                 <th>
-                                                    <span>Governor</span>
-                                                    &mdash; <a href="">Hope Uzodinma (APC)</a> 
+                                                    <span>Minister</span>
+                                                    &mdash; <a href="#">Mohammed Musa Bello</a> 
                                                 </th>
                                                 <th>
-                                                    <span>Deputy</span>
-                                                    &mdash; <a href="">Placid Njoku</a> 
+                                                    <span>Minister of State</span>
+                                                    &mdash; <a href="#">Ramatu Tijani Aliyu</a> 
                                                 </th>
                                                 <th colspan="2">
-                                                    <span>Senators</span>
-                                                    &mdash; Ezenwa Onyewuchi, <a href="" class="pl-2">Rochas Okorocha</a>
+                                                    <span>Senator</span>
+                                                    &mdash; Philip Tanimu Aduda
                                                 </th>
                                             </tr>
                                             <tr>
-                                                <th colspan="2">
-                                                    <span>Reps</span>
-                                                    &mdash; Elezianya,
-                                                    <a href="" class="px-2">Henry Nwawuba,</a> Ugonna Ozuruigbo
-                                                </th>
                                                 <th colspan="2">
                                                     <span>Area total</span>
-                                                    &mdash; 5,530 km<sup>2</sup>(2,140 sq mi)
-                                                    <span class="pl-3">Ranked 34th</span>
+                                                    &mdash; 1,769 km<sup>2</sup>
                                                 </th>
                                             </tr>
                                             <tr>
@@ -130,36 +127,12 @@
                                                 </th>
                                                 <th>
                                                     <span>Postal code</span>
-                                                    &mdash; 460001
+                                                    &mdash; 900001
                                                 </th>
                                                 <th colspan="2">
-                                                    <a href="" class="hdi">HDI (2018)</a>
-                                                    &mdash; 0.643 medium 
-                                                    <a href="">5th of 37th</a>
-                                                </th>
-                                            </tr>
-                                            <tr>
-                                                <th colspan="3">
-                                                    <span>GDP (PPP) ~ 2007</span>
-                                                    <span class="pl-2">Total</span>
-                                                    &mdash; $14.21 billion
-                                                    <span class="pl-2">Per capita</span>
-                                                    &mdash; $3,527
-                                                </th>
-                                                <th>
-                                                    <span>ISO 3166 code</span>
-                                                    &mdash;
-                                                    <a href="">NG-IM</a>
-                                                </th>
-                                            </tr>
-                                            <tr>
-                                                <th colspan="4">
-                                                    <span>Population (2017 est.) Total</span>
-                                                    &mdash; 4,927,563
-                                                    <span class="pl-2">Estimate ()</span>
-                                                    &mdash; 4,978,758
-                                                    <span class="pl-2">Ranked</span>
-                                                    &mdash; <a href="">13th of 36</a>
+                                                    <a href="" class="hdi">HDI (2019)</a>
+                                                    &mdash; 0.651 medium 
+                                                    <a href="#">7th of 37th</a>
                                                 </th>
                                             </tr>
                                         </thead>
@@ -170,89 +143,62 @@
                     </div>
                 </div>
 
-                <!-- Government -->
-                <div class="col-lg-7">
+                <!-- adinistration -->
+                <div class="col-lg-7" id="administration">
                     <div class="imo_gov my-4">
                         <div class="title position-relative">
-                            <h3 class="text-uppercase">government</h3>
+                            <h3 class="text-uppercase">administration</h3>
                         </div>
                         <div class="gov_details">
                             <p>
-                                The state has a three-tier administrative structure: State, Local and Autonomous community levels. The three arms at state level are the Executive, the Legislative and the Judiciary. The executive arm is headed by an elected Governor who is assisted by a deputy governor, commissioners and executive advisers.
+                            Abuja city is run by the Abuja Municipal Area Council. In addition to the civic administration the city is the location for the Federal Government of Nigeria, and likewise the Federal Capital Territory Administration which is responsible for the encompassing Federal Capital Territory.
                             </p>
                             <p>
-                                The legislative arm is headed by the Speaker of the State House of Assembly. The current Speaker is Rt. Hon. Chiji Collins, and his deputy is Hon. Okey Onyekamma. The remainder of the house is made up of elected legislators from the 27 LGAs of the state.
-
-                                The judiciary is made up of the high court of justice and the customary court of appeal, and is headed by the Chief Judge of the state
-                            </p>
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, ratione nesciunt assumenda, molestias odit magnam fugit iste nostrum laudantium ad aspernatur suscipit nisi? Exercitationem blanditiis sequi eligendi dolor et officiis molestiae quis repellendus eius! Ipsa deleniti ut doloribus quia repellendus.
+                            The Abuja Municipal Area Council is the local government responsible for administration of the city. Councillorship and chairmanship elections are held regularly. 
                             </p>
                         </div>
-                    </div>
-                </div>
-
-                <!-- Governor -->
-                <div class="col-lg-5">
-                    <div class="imo_img ">
-                        <img src="assets/img/about/governor.jpg" alt="" class="img-fluid w-100 " >
                     </div>
                 </div>
 
                 <!-- Past/Present Government -->
                 <div class="col-lg-12">
-                    <p class="mt-5 caption">This is a list of administrators and governors of Imo State since its creation::</p>
+                    <p class="mt-5 caption">This is a list of FCT Abuja Ministers since its creation::</p>
                     <div class="gov_table table-responsive pb-4 border-bottom">
                         <table class="table  table-bordered">
                             
                             <thead class="thead">
                                 <tr>
                                     <th>Name</th>
-                                    <th>Title</th>
                                     <th>Took office</th>
                                     <th>Left office</th>
-                                    <th>Party</th>
                                 </tr>
                             </thead>
                             <tbody class="tbody">
                                 <tr>
-                                    <td>Ndubuisi Kanu</td>
-                                    <td>Governor</td>
-                                    <td>Mar 1976</td>
-                                    <td>1977</td>
-                                    <td>(Military)</td>
+                                    <td>Mobolaji Ajose-Adeogun</td>
+                                    <td>1976</td>
+                                    <td>1979</td>
                                 </tr>
                                 <tr>
                                     <td>...</td>
                                     <td>...</td>
                                     <td>...</td>
-                                    <td>...</td>
-                                    <td>(...)</td>
                                 </tr>
                                 <tr>
-                                    <td>Rochas Anayo Okorocha</td>
-                                    <td>Governor</td>
-                                    <td>29 May 2011</td>
-                                    <td>29 May 2019</td>
-                                    <td>APGA/APC</td>
-                                </tr>
-                                <tr>
-                                    <td>Emeka Ihedioha</td>
-                                    <td>Governor</td>
-                                    <td>29 May 2019</td>
-                                    <td>15 Jan 2020</td>
-                                    <td>PDP</td>
-                                </tr>
-                                <tr>
-                                    <td>Hop Uzodinma</td>
-                                    <td>Governor</td>
-                                    <td>15 Jan 2020</td>
-                                    <td>Till date</td>
-                                    <td>APC</td>
+                                    <td>Mohammed Bello</td>
+                                    <td>2015</td>
+                                    <td>Present</td>
                                 </tr>
                             </tbody>
                             
                         </table>
+                    </div>
+                </div>
+
+                <!-- Governor -->
+                <div class="col-lg-5">
+                    <div class="imo_img ">
+                        <img src="assets/img/about/abuja/FCT-minister-Muhammad-Bello.jpg" alt="" class="img-fluid w-100 " >
                     </div>
                 </div>
 
@@ -263,41 +209,20 @@
                             <h3 class="text-uppercase">Local governments</h3>
                         </div>
                         <div class="local_details pt-3">
-                            <p>Imo State consists of 27 local governments areas.</p>
+                            <p>FCT Abuja consists of 6 local governments areas.</p>
                             <div class="local_list d-flex justify-content-between flex-wrap">
                                 <ul class=" m-0">
-                                    <li><a href="">Aboh Mbaise</a></li>
-                                    <li><a href="">Ahiazu Mbaise</a></li>
-                                    <li><a href="">Ehime Mbano</a></li>
-                                    <li><a href="">Ezinihitte Mbaise</a></li>
-                                    <li><a href="">Ideato North</a></li>
-                                    <li><a href="">Ideato South</a></li>
-                                    <li><a href="">Ihitte/Uboma</a></li>
-                                    <li><a href="">Ikeduru</a></li>
-                                    <li><a href="">Isiala Mbano</a></li>
-                                    <li><a href="">Isu</a></li>
+                                    <li><a href="#">Abaji</a></li>
+                                    <li><a href="#">Abuja</a></li>
+                                    
                                 </ul>
                                 <ul>
-                                    <li><a href="">Mbaitoli</a></li>
-                                    <li><a href="">Ngor Okpala</a></li>
-                                    <li><a href="">Njaba</a></li>
-                                    <li><a href="">Nkwerre</a></li>
-                                    <li><a href="">Nwangele</a></li>
-                                    <li><a href="local-gov.php">Obowo</a></li>
-                                    <li><a href="">Oguta</a></li>
-                                    <li><a href="">Ohaji/Egbema</a></li>
-                                    <li><a href="">Okigwe</a></li>
+                                    <li><a href="#">Bwari</a></li>
+                                    <li><a href="#">Gwagwalada</a></li>
                                 </ul>
                                 <ul>
-                                    <li><a href="">Onuimo</a></li>
-                                    <li><a href="">Orlu</a></li>
-                                    <li><a href="">Orsu</a></li>
-                                    <li><a href="">Oru East</a></li>
-                                    <li><a href="">Oru West</a></li>
-                                    <li><a href="">Owerri Municipal</a></li>
-                                    <li><a href="">Owerri North</a></li>
-                                    <li><a href="">Owerri West</a></li>
-                                </ul>
+                                    <li><a href="#">Kuje</a></li>
+                                    <li><a href="#">Kwali Area Council</a></li>
                             </div>
                         </div>
                     </div>
@@ -311,13 +236,7 @@
                         </div>
                         <div class="natural_details text- pt-3">
                             <p>
-                                The state has several natural resources including <b>crude oil, </b> <b>natural gas, </b> <b>lead, </b> <b>Calcium Carbonate</b> and <b>zinc</b>.
-                            </p>
-                            <p>
-                                Profitable flora including <b>iroko, </b> <b>mahogany, </b> <b>obeche, </b> <b>bamboo, </b> <b>rubber tree</b> and <b>oil palm</b>. Additionally <b>white clay,</b> <b>fine sand</b> and <b>limestone</b> are found in the state.
-                            </p>
-                            <p>
-                                Imo's major towns include Emekuku Isu, Okigwe, Oguta, Orlu, Atta Ikeduru, Akokwa, Mbaise, Mbaitoli, Mbieri, Ohaji/Egbema, Orodo, Nkwerre, Ubulu, Ngor Okpala, Omuma, Owerri, Mgbidi, Awo-Omamma, Izombe, Orsu, and Amaigbo, Umuowa Orlu, Isu/Umuozu, Iho Dimeze.
+                                FCT Abuja has several natural resources including <b>Cassiterite</b>, <b>Clay</b>, <b>Dolomite</b>, <b>Gold</b>, <b>Lead/Zinc</b>, <b>Marble</b> & <b>Tantalite</b>
                             </p>
                         </div>
                     </div>
@@ -331,97 +250,29 @@
                         </div>
                         <div class="t-details">
                             <p>
-                                Iste ex sit nihil adipisci necessitatibus repellendus, unde consectetur? Pariatur eaque inventore aperiam nisi ducimus unde accusamus vel repellat cupiditate minima.
+                            Travelers are voting Abuja National Mosque, Nnamdi Azikiwe International Airport and Millennium Park (Abuja) as the best of 10 tourist attractions in Abuja.
                             </p>
                             <div class="t-table table-responsive">
                                 <table class="table table-bordered ">
-                                    <thead>
-                                        <tr>
-                                            <th>Tourism site</th>
-                                            <th>Location</th>
-                                        </tr>
-                                    </thead>
                                     <tbody>
                                         <tr>
-                                            <td>Oguta lake</td>
-                                            <td>Oguta LGA</td>
+                                            <td>Aso Rock</td>
+                                            <td>National Assembly</td>
+                                            <td>Zuma Rock</td>
+                                            <td>Abuja National mosque</td>
+                                            <td>Nnamdi Azikiwe International Airport</td>
+                                            <td>Millennium Park</td>
+                                            <td>Aso Villa</td>
                                         </tr>
-                                        <tr>
-                                            <td>Oguta lake</td>
-                                            <td>Oguta LGA</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Oguta lake</td>
-                                            <td>Oguta LGA</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Oguta lake</td>
-                                            <td>Oguta LGA</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Oguta lake</td>
-                                            <td>Oguta LGA</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Oguta lake</td>
-                                            <td>Oguta LGA</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Oguta lake</td>
-                                            <td>Oguta LGA</td>
-                                        </tr>
-                                    </tbody>
                                 </table>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Tourism images -->
-                <div class="col-lg-5">
-                    <div class="tour-images">
-                        <div class="row no-gutters">
-                            <div class="col-lg-12">
-                                <div class="img-box">
-                                    <a href="assets/img/tour/Oguta-Lake-Imo.jpg" class="venobox">
-                                        <img src="assets/img/tour/Oguta-Lake-Imo.jpg" alt="" class="img-fluid">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="img-box">
-                                    <a href="assets/img/tour/Oguta-Lake-Imo.jpg" class="venobox">
-                                        <img src="assets/img/tour/Oguta-Lake-Imo.jpg" alt="" class="img-fluid">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="img-box">
-                                    <a href="assets/img/tour/Oguta-Lake-Imo.jpg" class="venobox">
-                                        <img src="assets/img/tour/Oguta-Lake-Imo.jpg" alt="" class="img-fluid">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="img-box">
-                                    <a href="assets/img/tour/Oguta-Lake-Imo.jpg" class="venobox">
-                                        <img src="assets/img/tour/Oguta-Lake-Imo.jpg" alt="" class="img-fluid">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="img-box">
-                                    <a href="assets/img/tour/Oguta-Lake-Imo.jpg" class="venobox">
-                                        <img src="assets/img/tour/Oguta-Lake-Imo.jpg" alt="" class="img-fluid">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
                 <!-- Education -->
-                <div class="col-lg-12">
+                <!-- <div class="col-lg-12">
                     <div class="education mb-4">
                         <div class="title">
                             <h3 class="text-uppercase ">education</h3>
@@ -504,10 +355,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Investment Opportunities -->
-                <div class="col-lg-7">
+                <!-- <div class="col-lg-7">
                     <div class="invest_o my-5">
                         <div class="title">
                             <h3 class="text-uppercase">investment opportunities</h3>
@@ -528,10 +379,10 @@
                             </p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Oil and gas exploration -->
-                <div class="col-lg-5">
+                <!-- <div class="col-lg-5">
                     <div class="oil_ex my-5">
                         <div class="title">
                             <h3 class="text-uppercase">Oil and gas exploration</h3>
@@ -541,7 +392,7 @@
                                 There are over 163 oil wells at over 12 different locations in the state.
                             </p>
                             <p>
-                                The main petroleum companies operating in the state are Addax Petroleum, Chevron Corporation, Royal Dutch Shell and Agip.[5] Some of the established oil-rich local government councils include Ohaji/Egbema, Oguta, Oru East, Iho, Oru West, Obowo and Ngor Okpala.
+                                The main petroleum companies operating in the state are Addax Petroleum, Chevron Corporation, Royal Dutch Shell and Agip. Some of the established oil-rich local government councils include Ohaji/Egbema, Oguta, Oru East, Iho, Oru West, Obowo and Ngor Okpala.
                             </p>
                         </div>
                         <div class="ltn">
@@ -549,10 +400,10 @@
                             <span>One primary source of revenue for Imo State Government is from palm oil production contributed by both large scale and small scale production.</span>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Marriage -->
-                <div class="col-lg-6">
+                <!-- <div class="col-lg-6">
                     <div class="marriage mb-5">
                         <div class="title">
                             <h3 class="text-uppercase">Marriage</h3>
@@ -569,30 +420,30 @@
                             </p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="col-lg-6">
+                <!-- <div class="col-lg-6">
                     <div class="m_img mb-5">
                         <img src="assets/img/about/marriage2.jpg" alt="" class="img-fluid w-100">
                     </div>
-                </div>
+                </div> -->
 
                 <!-- People & Culture -->
-                <div class="col-lg-12">
+                <!-- <div class="col-lg-12">
                     <div class="p_tile" id="people">
                         <div class="title">
                             <h3 class="text-uppercase">People & culture</h3>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="col-lg-5 ">
+                <!-- <div class="col-lg-5 ">
                     <div class=" p_img mb-5 pt-3">
                         <img src="assets/img/about/People-of-Imo-state.jpg" alt="" class="img-fluid h-100">
                     </div>
-                </div>
+                </div> -->
 
-                <div class="col-lg-7 ">
+                <!-- <div class="col-lg-7 ">
                     <div class="people_c mb-5 pt-3">
                         <div class="p-c_details">
                             <p>
@@ -606,18 +457,18 @@
                             </p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Food -->
-                <div class="col-lg-12">
+                <!-- <div class="col-lg-12">
                     <div class="f_tile my-4 mb-5" id="food">
                         <div class="title">
                             <h3 class="text-uppercase">Food</h3>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="col-lg-6 ">
+                <!-- <div class="col-lg-6 ">
                     <div class="imo_food">
                         <div class="f_details">
                             <p>
@@ -631,9 +482,9 @@
                             </p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="col-lg-6">
+                <!-- <div class="col-lg-6">
                     <div class="food_images">
                         <div class="row no-gutters">
                             <div class="col-lg-6 col-md-6 p-0 m-0">
@@ -666,25 +517,25 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
 
                 <!-- Markets -->
-                <div class="col-lg-12">
+                <!-- <div class="col-lg-12">
                     <div class="mkt_tile" id="market">
                         <div class="title">
                             <h3 class="text-uppercase">markets</h3>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="col-lg-5">
+                <!-- <div class="col-lg-5">
                     <div class="m_img mb-3 pt-3">
                         <img src="assets/img/about/ekeukwu.jpg" alt="" class="img-fluid h-100">
                     </div>
-                </div>
+                </div> -->
 
-                <div class="col-lg-7 ">
+                <!-- <div class="col-lg-7 ">
                     <div class="market_ pt-3">
                         <div class="m_details">
                             <p>
@@ -716,7 +567,7 @@
                             </p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Who is who -->
                 <div class="col-lg-12">
@@ -726,7 +577,7 @@
                         </div>
                         <div class="row">
                             <!-- Sport -->
-                            <div class="col-lg-4 p-0 m-0">
+                            <!-- <div class="col-lg-4 p-0 m-0">
                                 <div class="who">
                                     <div class="h-title text-center">
                                         <h5>Sport</h5>
@@ -735,34 +586,34 @@
                                         <ul class="p-lg-0 rpadding">
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Chioma Ajunwa </a> &mdash;
+                                                    <a href="#">Chioma Ajunwa </a> &mdash;
                                                     <span>1996 Olympic gold long jumper</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Kelechi Iheanacho </a> &mdash;
+                                                    <a href="#">Kelechi Iheanacho </a> &mdash;
                                                     <span>Striker for Leicester City</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Prince Amukamara </a> &mdash;
+                                                    <a href="#">Prince Amukamara </a> &mdash;
                                                     <span>cornerback for the Chicago Bears</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Samuel Okwaraji(1964-1986) </a> &mdash;
+                                                    <a href="#">Samuel Okwaraji(1964-1986) </a> &mdash;
                                                     <span>National footballer</span>
                                                 </div>
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- Arts -->
-                            <div class="col-lg-4 p-0 m-0 ">
+                            <!-- <div class="col-lg-4 p-0 m-0 ">
                                 <div class="who">
                                     <div class="h-title text-center">
                                         <h5>Arts</h5>
@@ -771,34 +622,34 @@
                                         <ul class="">
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Genevive Nnaji </a> &mdash;
+                                                    <a href="#">Genevive Nnaji </a> &mdash;
                                                     <span>Nollyword actress</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">John Munonye </a> &mdash;
+                                                    <a href="#">John Munonye </a> &mdash;
                                                     <span>Author</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Okey Bakassi </a> &mdash;
+                                                    <a href="#">Okey Bakassi </a> &mdash;
                                                     <span>Comedian and actor</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Rita Dominic</a> &mdash;
+                                                    <a href="#">Rita Dominic</a> &mdash;
                                                     <span>Nigerian Actress</span>
                                                 </div>
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- Politics -->
-                            <div class="col-lg-4 p-0 m-0">
+                            <!-- <div class="col-lg-4 p-0 m-0">
                                 <div class="who">
                                     <div class="h-title text-center">
                                         <h5>Politics</h5>
@@ -807,34 +658,34 @@
                                         <ul class="">
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Pats Acholonu </a> &mdash;
+                                                    <a href="#">Pats Acholonu </a> &mdash;
                                                     <span>Supreme Court Justice</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Chris Anyanwu</a> &mdash;
+                                                    <a href="#">Chris Anyanwu</a> &mdash;
                                                     <span>Journalist and senator</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Chris Okewulonu </a> &mdash;
+                                                    <a href="#">Chris Okewulonu </a> &mdash;
                                                     <span>Chief of Staff</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Maurice Iwu</a> &mdash;
+                                                    <a href="#">Maurice Iwu</a> &mdash;
                                                     <span>former INEC Chairman</span>
                                                 </div>
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- Others -->
-                            <div class="col-lg-4 p-0 m-0">
+                            <!-- <div class="col-lg-4 p-0 m-0">
                                 <div class="who">
                                     <div class="h-title text-center">
                                         <h5>Others</h5>
@@ -843,32 +694,32 @@
                                         <ul class="">
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Pats Acholonu </a> &mdash;
+                                                    <a href="#">Pats Acholonu </a> &mdash;
                                                     <span>Supreme Court Justice</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Chris Anyanwu</a> &mdash;
+                                                    <a href="#">Chris Anyanwu</a> &mdash;
                                                     <span>Journalist and senator</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Chris Okewulonu </a> &mdash;
+                                                    <a href="#">Chris Okewulonu </a> &mdash;
                                                     <span>Chief of Staff</span>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="p1">
-                                                    <a href="">Maurice Iwu</a> &mdash;
+                                                    <a href="#">Maurice Iwu</a> &mdash;
                                                     <span>former INEC Chairman</span>
                                                 </div>
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

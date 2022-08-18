@@ -44,7 +44,7 @@
                                 <a href="index.php">Home</a>
                             </li>
                             <li class="drop-down">
-                                <a href="imo-state.php">About FCT Abuja</a>
+                                <a href="fct-abuja.php">About FCT Abuja</a>
                             </li>
                             <li class="drop-down"><a href="#">Listings</a>
                                 <ul>

@@ -48,19 +48,19 @@
                         <div class="fterinks">
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="#">About us</a>
+                                    <a href="fct-abuja.php">About us</a>
                                 </li>
                                 <li>
-                                    <a href="blog.php">Blog</a>
+                                    <a href="#">Blog</a>
                                 </li>
                                 <li>
                                     <a href="#">Contact us</a>
                                 </li>
                                 <li>
-                                    <a href="privacy.php">Privacy policy</a>
+                                    <a href="#">Privacy policy</a>
                                 </li>
                                 <li>
-                                    <a href="terms.php">Terms</a>
+                                    <a href="#">Terms</a>
                                 </li>
                             </ul>
                         </div>
@@ -82,16 +82,13 @@
                                     <a href="#">App (Android)</a>
                                 </li>
                                 <li>
-                                    <a href="fct-abuja.php">FCT Abuja History</a>
+                                    <a href="fct-abuja.php#history">FCT Abuja History</a>
                                 </li>
                                 <li>
-                                    <a href="fct-abuja.php#people">People / Culture</a>
+                                    <a href="fct-abuja.php#administration">Administration</a>
                                 </li>
                                 <li>
-                                    <a href="fct-abuja.php#food">Food / Marriage</a>
-                                </li>
-                                <li>
-                                    <a href="fct-abuja.php#market">Market</a>
+                                    <a href="fct-abuja.php#economy">Economy</a>
                                 </li>
                             </ul>
                         </div>

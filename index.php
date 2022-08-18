@@ -298,7 +298,7 @@
                             <div class="card-img-overlay">
                                 <div class="pabs">
                                     <div class="dgts">
-                                        <a href="hotels-listings.php"> 25 Airpots</a>
+                                        <a href="hotels-listings.php"> 25 Airports</a>
                                     </div>
                                     <div class="ltn">
                                         <h6><a href="#">See Listing <i class="bx bx-check-double"></i></a></h6>
