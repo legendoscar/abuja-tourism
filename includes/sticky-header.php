@@ -18,9 +18,10 @@
                                 ><i class="icon-info-circle"></i>
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navDropdown">
-                                    <a href="https://losintech.com" class="dropdown-item" >About us
-                                    </a>
-                                    <a href="imo-state.php" class="dropdown-item">About FCT Abuja
+                                    <!-- <a href="https://losintech.com" class="dropdown-item" >
+                                        About us
+                                    </a> -->
+                                    <a href="fct-abuja.php" class="dropdown-item">About FCT Abuja
                                     </a>
                                 </div>
                             </li>
@@ -33,7 +34,7 @@
                                 ><i class="icon-list-alt"></i>
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navDropdown">
-                                    <a href="hotels-listings.php" class="dropdown-item" >Hotels
+                                    <a href="hotels-listing.php" class="dropdown-item" >Hotels
                                     </a>
                                     <a href="#" class="dropdown-item">Flight
                                     </a>
@@ -42,7 +43,7 @@
                                 </div>
                             </li>
                             <li class="list-inline-item">
-                                <a href="https://losintech.com" class="nav-link">
+                                <a href="tel:+2348069990253" class="nav-link">
                                     <i class="icon-phone_in_talk"></i>
                                 </a>
                             </li>
@@ -55,20 +56,21 @@
                                 ><i class="icon-more_vert"></i>
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navDropdown">
-                                    <a href="sign-in.php" class="dropdown-item" >Sign in
+                                    <a href="sign-in.php" class="dropdown-item">
+                                        Sign in
                                     </a>
-                                    <a href="sign-up.php" class="dropdown-item">Sign up
+                                    <a href="sign-up.php" class="dropdown-item">
+                                        Sign up
                                     </a>
                                     </a>
-                                    <a href="#" class="dropdown-item">History
+                                    <a href="fct-abuja.php#history" class="dropdown-item">
+                                        History
                                     </a>
-                                    <a href="#" class="dropdown-item">People / Culture
+                                    <a href="fct-abuja.php#administration" class="dropdown-item">
+                                        Administration
                                     </a>
-                                    <a href="#" class="dropdown-item">Marriage
-                                    </a>
-                                    <a href="#" class="dropdown-item">Food
-                                    </a>
-                                    <a href="#" class="dropdown-item">Market places
+                                    <a href="fct-abuja.php#economy" class="dropdown-item">
+                                        Economy
                                     </a>
                                 </div>
                             </li>

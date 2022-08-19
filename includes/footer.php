@@ -104,13 +104,19 @@
                         <div class="fterinks">
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="hotels-listing.php">Hotels</a>
+                                    <a href="hotels-listing.php">Hotels &amp; Lodges</a>
                                 </li>
                                 <li>
-                                    <a href="#">Flights</a>
+                                    <a href="#">Flights &amp; Travels</a>
                                 </li>
                                 <li>
-                                    <a href="#">Tourism sites</a>
+                                    <a href="#">Tourist Attractions</a>
+                                </li>
+                                <li>
+                                    <a href="#">Restaurants & Bars</a>
+                                </li>
+                                <li>
+                                    <a href="#">Skills &amp; Acquisition</a>
                                 </li>
                             </ul>
                         </div>
