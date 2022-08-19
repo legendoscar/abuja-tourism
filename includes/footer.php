@@ -107,7 +107,7 @@
                                     <a href="hotels-listing.php">Hotels &amp; Lodges</a>
                                 </li>
                                 <li>
-                                    <a href="#">Flights &amp; Travels</a>
+                                    <a href="#">Flights &amp; Taxis</a>
                                 </li>
                                 <li>
                                     <a href="#">Tourist Attractions</a>

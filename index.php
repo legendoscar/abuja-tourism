@@ -103,13 +103,23 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#flights" data-toggle="tab" class="nav-link ">
-                                    <i class="icon-plane mr-2" data-toggle="tooltip" data-placement="top" title="Flights"></i> <span>Flights</span>
+                                <a href="#restaurants" data-toggle="tab" class="nav-link sites">
+                                    <i class="icon-food-knife mr-2" data-toggle="tooltip" data-placement="top" title="Restaurants"></i> <span>Restaurants</span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#flights" data-toggle="tab" class="nav-link sites">
+                                    <i class="icon-plane mr-2" data-toggle="tooltip" data-placement="top" title="Book Flights"></i> <span>Flights</span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#taxi" data-toggle="tab" class="nav-link sites">
+                                    <i class="icon-road mr-2" data-toggle="tooltip" data-placement="top" title="Order Rides"></i> <span>Taxis</span>
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a href="#sites" data-toggle="tab" class="nav-link sites">
-                                    <i class="icon-road mr-2" data-toggle="tooltip" data-placement="top" title="Tourism sites"></i> <span>Tourism sites</span>
+                                    <i class="icon-road mr-2" data-toggle="tooltip" data-placement="top" title="Tourist sites"></i> <span>Tourist sites</span>
                                 </a>
                             </li>
                         </ul>
@@ -118,6 +128,7 @@
 
                     <div class="col-lg-12 tbcss">
                         <div class="tab-content  border-0">
+                            <!-- HOTELS -->
                             <div class="tab-pane active show" id="hotels">
                                 <div class="srch">
                                     <div class="whre">
@@ -188,6 +199,54 @@
                                 </div>
                             </div>
 
+
+                            <!-- RESTAURANTS -->
+                            <div class="tab-pane" id="restaurants">
+                                <div class="srch">
+                                    <div class="whre">
+                                        <p>What do you want to eat?</p>
+                                    </div>
+                                    <div class="form-sec">
+                                        <form action="" class="hotel-form">
+                                            <div class="ffhere clearfix">
+                                                <div class="d-grid">
+                                                    <!-- Name/Location -->
+                                                    <div class="form-group ml">
+                                                        <label for="nmelocatn" class="text-uppercase">Name:</label>
+                                                        <input type="text" id="nmelocatn" class="form-control form-control-lg" placeholder="Name or Location of restaurant">
+                                                    </div>
+                                                    <!-- Type of food -->
+                                                    <div class="form-group ml">
+                                                        <label for="nmelocatn" class="text-uppercase">Food:</label>
+                                                        <input type="text" id="nmelocatn" class="form-control form-control-lg" placeholder="Type of food">
+                                                    </div>
+                                                </div>
+
+                                                <div class="d-flex justify-content-between flex-wrap align-items-center sndstep">
+                                                    <!-- Rooms -->
+                                                    <div class="form-group">
+                                                        <label for="rooms" class="text-uppercase">Quantity</label>
+                                                        <div class="qty d-flex">
+                                                            <input type="text" class="incdec" id="rooms" value="1" min="1">
+                                                            <div class="qty-nav d-flex flex-column">
+                                                                <button type="button" class="qty-btn_room qty-up">+</button>
+                                                                <button type="button" class="qty-btn_room qty-down">-</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <!-- submit -->
+                                                    <div class="form-group s-btn mt-3">
+                                                        <button type="submit" class="btn">Search <i class="bx bx-search"></i></button>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+
                             <!-- Flights -->
                             <div class="tab-pane " id="flights">
                                 <p>One way</p>
@@ -211,6 +270,31 @@
                                                 <!-- Submit -->
                                                 <div class="form-group s-btn">
                                                     <button type="submit" class="btn">Search <i class="bx bx-search"></i></button>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Taxi -->
+                            <div class="tab-pane " id="taxi">
+                                <p>Book</p>
+                                <div class="row">
+                                    <div class="flights-sec">
+                                        <form action="#">
+                                            <div class="d-flex justify-content-between flex-wrap align-item-center">
+                                                <!-- From - To -->
+                                                <div class="form-group">
+                                                    <div class="d-grid from-to">
+                                                        <!-- From -->
+                                                        <input type="text" class="form-control form-control-lg" data-toggle="tooltip" data-placement="top" title="From" placeholder="From">
+                                                        <!-- To -->
+                                                        <input type="text" class="form-control form-control-lg" data-toggle="tooltip" data-placement="top" title="To" placeholder="To">
+                                                    </div>
+                                                </div>
+                                                <!-- Submit -->
+                                                <div class="form-group s-btn">
+                                                    <button type="submit" class="btn">Order <i class="bx bx-search"></i></button>
                                                 </div>
                                             </div>
                                         </form>
